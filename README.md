@@ -28,8 +28,3 @@ A todo list of features to be implemented:
 ## Contributing:
 Please refer [here](https://github.com/CCExtractor/TDebugger/blob/master/CONTRIBUTING.md) for contributing guidelines.
 
-## Code of Conduct:
-Please note we have a [code of conduct](https://github.com/CCExtractor/TDebugger/blob/master/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
-
-## License: 
-This project is licensed under the terms of the GPL-2.0 license
